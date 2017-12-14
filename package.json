@@ -1,0 +1,29 @@
+{
+  "name": "basic-node-webserver",
+  "version": "1.0.0",
+  "description": "A basic node webserver boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnotu/basic-node-webserver.git"
+  },
+  "keywords": [
+    "node",
+    "webserver"
+  ],
+  "author": "John Otu <johnne01@gmail.com> (https://github.com/johnotu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotu/basic-node-webserver/issues"
+  },
+  "homepage": "https://github.com/johnotu/basic-node-webserver#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
